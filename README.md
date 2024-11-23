@@ -3,13 +3,13 @@
 ## Project Overview
 
 ### Problem Statement
-Email spam poses a significant challenge globally, impacting individuals and organizations by overloading inboxes, wasting time, and potentially exposing users to phishing attacks or malware.
+Email spam poses a significant challenge globally and mainly its VERY ANNOYING!
 
 ### Solution
-This project implements a machine learning-based email spam checker that classifies incoming emails as either "spam" or "ham" (legitimate), providing a robust solution to automate spam detection.
+This project implements a machine learning based email spam checker that classifies incoming emails as either "spam" or "ham", providing a robust solution to automate spam detection.
 
 ### Project Goal
-The primary goal is to demonstrate the development and evaluation of a machine learning model for a real-world application. This includes showcasing expertise in data preprocessing, feature engineering, model training, evaluation, and prediction.
+The primary goal is to demonstrate the development and evaluation of a machine learning model for a real world application. This includes showcasing expertise in data preprocessing, feature engineering, model training, evaluation, and prediction.
 
 ---
 
